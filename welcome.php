@@ -1,3 +1,5 @@
+<?php require_once './config/config.php' ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,9 +12,11 @@
 </head>
 
 <body>
-    Welcome
-    <br><br>
+    <div class="primary">Welcome</div>
+    <br>
 
+    <a href="./">home</a>
+    <br>
     <a href="./login.php">login</a>
     <br>
     <a href="./register.php">register</a>
