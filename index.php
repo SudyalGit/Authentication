@@ -9,7 +9,7 @@
 </head>
 <body>
     Authentication Home Page
-    <br>
+    <br><br>
     <a href="./login.php">login</a>
     <br>
     <a href="./register.php">register</a>
